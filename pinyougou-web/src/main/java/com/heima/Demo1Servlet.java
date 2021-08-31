@@ -13,6 +13,7 @@ public class Demo1Servlet extends  HttpServlet {
         System.out.println("hello 品优购 master");
         System.out.println("hello 品优购 master1");
         System.out.println("hello 品优购 master2");
+        System.out.println("hello 品优购 hot_fix");
     }
 
     @Override
