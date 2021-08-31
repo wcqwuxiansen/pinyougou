@@ -11,6 +11,8 @@ public class Demo1Servlet extends  HttpServlet {
     @Override
     public void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         System.out.println("hello 品优购 master");
+        System.out.println("hello 品优购 master1");
+        System.out.println("hello 品优购 master2");
     }
 
     @Override
