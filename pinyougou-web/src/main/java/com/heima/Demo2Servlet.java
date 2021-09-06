@@ -10,6 +10,7 @@ public class Demo2Servlet extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         System.out.println("Hello Demo2Servlet");
+        System.out.println("Hello Demo2Servlet1");
     }
 
     @Override
