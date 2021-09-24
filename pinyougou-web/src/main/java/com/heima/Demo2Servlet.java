@@ -14,6 +14,8 @@ public class Demo2Servlet extends HttpServlet {
         System.out.println("Hello Demo2Servlet2");
         System.out.println("哈哈哈哈");
         System.out.println("Hello Demo2Servlet3");
+        System.out.println("hello 品优购9/24更新 in idea");
+
     }
 
     @Override
