@@ -23,6 +23,7 @@ public class Demo1Servlet extends  HttpServlet {
         System.out.println("hello 品优购9/14更新1");
         System.out.println("hello 品优购9/24更新 in idea");
 
+        System.out.println("hello 品优购9/24更新 online");
     }
 
     @Override
